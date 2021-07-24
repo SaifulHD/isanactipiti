@@ -1,0 +1,86 @@
+body{
+  background-color: #131215;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+  font-family: Product Sans Medium;
+  margin-bottom: 10px;
+}
+.container{
+  margin-top: 70px;
+  
+}
+a:hover{
+  color:white;
+}
+
+.yutub{
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #FF2A46;  
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+.github{
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #464646;  
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+.spotify{
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #009C6E;  
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+.tiktok{
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #8A048C;  
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+.twitter{
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #007BA9;  
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+.tokped{
+
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #4F9D4E;  
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
+
+.cr{
+  margin-top: 100px;
+  text-align: center;
+  font-family: Product Sans Light;
+  font-size: 20px;
+}
+.capt{
+  margin-top: 20px;
+  text-align: center;
+  font-family: Product Sans Light;
+  font-size: 20px;
+}
