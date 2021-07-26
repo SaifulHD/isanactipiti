@@ -84,3 +84,13 @@ a:hover{
   font-family: Product Sans Light;
   font-size: 20px;
 }
+
+.ig{
+  border-radius: 20px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  background-color: #FF7443;  
+  color: white;
+  text-decoration: none;
+  margin-top: 30px;
+}
