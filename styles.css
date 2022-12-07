@@ -3,7 +3,7 @@ body{
   color: white;
   text-align: center;
   font-size: 25px;
-  font-family: Product Sans Medium;
+  font-family: 'Roboto';
   margin-bottom: 10px;
 }
 .container{
@@ -90,7 +90,7 @@ a:hover{
 .capt{
   margin-top: 20px;
   text-align: center;
-  font-family: Product Sans Light;
+  font-family: 'Roboto';
   font-size: 20px;
 }
 
